@@ -1,56 +1,45 @@
-# Application Name
+# Title
 
-#### _{Brief description of application}, 4/16/2021_
+#### _{Brief description of application}_
 
-#### By _**Brandon Magofna**_
-
-## Description
-
-_{}_
-
-### Software Requirements
-
-1. Internet browser
-2. [Node](https://nodejs.org/en/)
-3. A code editor like VS Code or Atom to view or edit the codebase.
-
-### Installation
-
-1. Clone the repository: `$ git clone {}`
-2. Navigate to the `{project-folder}` directory on your computer
-3. Open with your preferred text editor to view the code base
-4. To start a development server and view the project in the browser:
-   - Navigate to `{project-folder}` in your command line
-   - Run the command `npm install` to install dependencies
-   - Run the command `npm run build` to make a bundle of the files
-   - Run the command `npm run start` to start a development server
-5. To run tests, navigate to `{project-folder}` in your terminal and run the command `npm run test`
-
-#### To see my live website go to https://github.com/Magofna68?tab=repositories
-
-## Known Bugs
-
-_No known bugs_
-
-## Support and contact details
-
-_Please reach out through my GitHub account._
+#### By Cristina Plesa
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-- VS Code
-- Jest
-- Webpack
-- Node
-- Babel
-- Eslint
-- Bootstrap
+* Javascript
+* 
+* 
 
-### License
+## Description
 
-MIT License.
+_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
 
-Copyright (c) 2021 **_Brandon Magofna_**
+## Setup and Use
+
+### Prerequisites
+* [Node](https://nodejs.org/en/)
+* A text editor like [VS Code](https://code.visualstudio.com/)
+
+### Installation
+1. Clone the repository: `$ git clone https://github.com/account/galactic-age`
+2. Navigate to the `galactic-age/` directory on your computer
+3. Open with your preferred text editor to view the code base
+4. To start a development server and view the project in the browser:
+    * Navigate to `galactic-age/` in your command line
+    * Run the command `npm install` to install dependencies
+    * Optionally, run the commmand `npm run build` to make a bundle of the files
+    * Finally, run the command `npm run start` to start a development server
+5. To run tests, navigate to `galactic-age/` in your terminal and run the command `npm run test`
+
+## Known Bugs
+
+* _Any known issues_
+* _should go here_
+
+## License
+
+MIT Copyright (c) 2021 Cristina Plesa
+
+## Contact Information
+
+Add a new issue to this repo to contact me about any issues.

@@ -1,8 +1,6 @@
-export default class Rover {
-  static getRover() {
-    return fetch(
-      `https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key=${process.env.API_KEY}`
-    )
+export default class AnotherExample {
+  static fetchExample() {
+    return fetch(`https://hello.com/hi?api_key=${process.env.API_KEY}`)
       .then(function (response) {
         if (!response.ok) {
           throw Error(response.statusText);
